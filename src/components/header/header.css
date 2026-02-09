@@ -88,10 +88,19 @@
   font-size: 16px;
   text-align: left;
   cursor: pointer;
-  padding: 8px 0;
+  padding: 8px 10px;
   transition: transform 0.2s ease;
 }
 
+.nav-mobile .primary-btn {
+  background-color: #1b1a1a;
+  max-width: 95%;
+  color: #fff;
+  font-size: 16px;
+  padding: 8px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
 .nav-mobile button:hover {
   transform: scale(1.05);
 }
@@ -136,6 +145,7 @@
 
   .header{
     background: white;
+    max-height: 100%;
   }
 
   .header-container {
