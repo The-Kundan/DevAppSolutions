@@ -58,10 +58,9 @@ const Footer = () => {
           <div>
             <h4>Connect With Us</h4>
             <div className="social-icons">
-              <a href="#"><Facebook size={20} /></a>
-              <a href="#"><Linkedin size={20} /></a>
-              <a href="#"><Instagram size={20} /></a>
-              <a href="#"><Github size={20} /></a>
+              <a href="https://www.facebook.com/devappsolution"><Facebook size={20} /></a>
+              <a href="https://www.linkedin.com/company/devappsolutions/"><Linkedin size={20} /></a>
+              <a href="https://www.instagram.com/devappsolutions6/"><Instagram size={20} /></a>
             </div>
           </div>
         </div>
